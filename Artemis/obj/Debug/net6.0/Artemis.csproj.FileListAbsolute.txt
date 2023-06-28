@@ -1,0 +1,15 @@
+F:\PROJETOS\Artemis\Artemis\bin\Debug\net6.0\Artemis.exe
+F:\PROJETOS\Artemis\Artemis\bin\Debug\net6.0\Artemis.deps.json
+F:\PROJETOS\Artemis\Artemis\bin\Debug\net6.0\Artemis.runtimeconfig.json
+F:\PROJETOS\Artemis\Artemis\bin\Debug\net6.0\Artemis.dll
+F:\PROJETOS\Artemis\Artemis\bin\Debug\net6.0\Artemis.pdb
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.csproj.AssemblyReference.cache
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.AssemblyInfoInputs.cache
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.AssemblyInfo.cs
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.csproj.CoreCompileInputs.cache
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.dll
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\refint\Artemis.dll
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.pdb
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\Artemis.genruntimeconfig.cache
+F:\PROJETOS\Artemis\Artemis\obj\Debug\net6.0\ref\Artemis.dll
