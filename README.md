@@ -1,5 +1,5 @@
 # Artemis
-Artemis é um programa que caça arquivos.
+Artemis é um programa que busca(caça) arquivos.
 Feito em C# (Console App)
 - Você insere um caminho que deseja procurar (ou até mesmo uma partição inteira)
 - Após isso é inserido o formato que você deseja procurar (ex: doc, txt, exe)
